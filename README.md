@@ -1,7 +1,7 @@
 # Just-a-Simple-Blockchain-Demo-in-Rust
 
 Description
-This project is a fully functional blockchain implemented in Rust, designed for educational and demonstration purposes. It showcases the core principles of blockchain technology, including Proof of Authority (PoA), transaction validation, and immutable record-keeping. Users can interact with the blockchain, manage client balances, and perform transactions in a simulated cryptobank environment.
+This project is a fully functional blockchain implemented in Rust, designed for demonstration purposes. It showcases the core principles of blockchain technology, including Proof of Authority (PoA), transaction validation, and immutable record-keeping. Users can interact with the blockchain, manage client balances, and perform transactions in a simulated cryptobank environment.
 
 Features
 
